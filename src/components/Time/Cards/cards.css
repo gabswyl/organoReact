@@ -1,0 +1,22 @@
+.card {
+    border-radius: 10px;
+    width: 30%;
+    padding: 20px;
+}
+
+
+.imagem img {
+    margin-top: 40px;
+    border-radius: 121.191px;
+    width: 40%;
+}
+
+.info_card h3 {
+    color: #6278F7; 
+}
+
+.info_card span {
+    font-size: 18px;
+}
+
+

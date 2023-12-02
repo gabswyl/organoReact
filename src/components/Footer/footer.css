@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: #6278F7;
+}
+
+.listaDeLogos {
+    display: flex;
+    gap: 20px;
+}
+
+.logos {
+    list-style-type: none;
+}
+
+.footer p {
+    color: #fff;
+}

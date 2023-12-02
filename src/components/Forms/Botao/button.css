@@ -1,0 +1,14 @@
+.botao-criarcard {
+    margin-top: 10px;
+}
+
+.botao-criarcard button {
+    color: #fff;
+    font-weight: 700;
+}
+
+
+.botao-criarcard button:hover {
+    color: #95FFD4;
+    font-weight: 700;
+}
